@@ -1,2 +1,2 @@
 # MOLD_ADMIN
-SAPUI5 application with MVC structure, JSView, JSON, OData, XML and OpenUI5 elements.
+SAPUI5 web application with MVC structure, JSView, JSON, OData, XML and OpenUI5 elements. Mold_admin application is developed for manufacturing plants with various mold machine operations.  Mold_admin follows the master-details template from SAPUI5 templates. It provides a list of available Molds and some of the details of Mold in the master page in the form of a table. on select of mold, detail page opens and provides detailed information about mold along with its properties. on select of property, 3rd screen opens and shows the property of selected mold. Application is validated based on roles, plants, departments, and many more. 
